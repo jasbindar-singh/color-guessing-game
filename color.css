@@ -1,0 +1,72 @@
+*{
+    font-family: 'Open Sans', sans-serif;;
+    text-transform: uppercase;
+}
+body{
+    background: #232323;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 30%;
+    margin: 1.66%;
+    padding-bottom: 30%;
+    background: #000000;
+    float: left;
+    border-radius: 70px;
+    transition: background 1.0s;
+}
+.container{
+    max-width: 35%;
+    margin: 0 auto;
+}
+.hard{
+    background: #5555ff;
+    color: white;
+}
+h1{
+    font-weight: normal;
+    background: #5555ff;
+    text-align: center;
+    margin: 0;
+    line-height: 1.1;
+    padding: 20px 0;
+    transition: background 1.0s;
+}
+.colorbox{
+    font-size: 50px;
+}
+.verdict{
+    width: 20%;
+    display: inline-block;
+}
+.stripe{
+    height: 30px;
+    text-align: center;
+    background: #ffffff;
+    margin: 0;
+}
+button{
+    border: none;
+    background: none;
+    height: 100%;
+    color: #5555ff;
+    font-weight: bolder;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+button:hover{
+    color: #ffffff;
+    background: #5555ff;
+    transition: all 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
